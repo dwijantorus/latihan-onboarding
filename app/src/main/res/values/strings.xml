@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Latihan OnBoarding</string>
+
+    <string-array name="onboarding_title">
+        <item>Welcome To Stazam</item>
+        <item>Set Alarms</item>
+        <item>Create Reminder</item>
+        <item>Taking Notes</item>
+    </string-array>
+
+    <string-array name="onboarding_description">
+        <item>Easily Organise your day to day activities for Maximum productivity</item>
+        <item>Set up Alarms daily for Keeping regular schedules</item>
+        <item>Set up reminders, that will keep your most important priorities top of mind</item>
+        <item>Taking Notes and making important to-do lists on the go</item>
+    </string-array>
+</resources>
